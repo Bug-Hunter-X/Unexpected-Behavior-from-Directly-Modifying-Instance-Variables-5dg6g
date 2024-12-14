@@ -1,0 +1,3 @@
+# Ruby Bug: Unexpected Instance Variable Modification
+
+This repository demonstrates a common bug in Ruby where directly modifying instance variables from outside the class can lead to unexpected behavior and maintainability issues. The `bug.rb` file showcases the problem, while `bugSolution.rb` presents a solution using accessor methods.  This is crucial for maintaining data integrity and adhering to good object-oriented principles.
